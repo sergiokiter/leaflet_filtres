@@ -1,6 +1,6 @@
 <?php
 
-$db = 'my_app';
+$db = 'leaflet';
 $user = 'root';
 $pass = '';
 $host = 'localhost';
